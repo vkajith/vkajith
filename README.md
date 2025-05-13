@@ -84,6 +84,6 @@ Worked on **web application development**, implementing **React.js, TypeScript, 
 
 💬 **Let's connect!** Feel free to reach out via:  
 📩 Email: [vkajithdevs@gmail.com](mailto:vkajithdevs@gmail.com)  
-🌐 Portfolio: [vysyakh-ajith.vercel.app](https://vysyakh-ajith.vercel.app/)  
+🌐 Portfolio: [vysyakh-ajith.vercel.app](https://www.vkajithdevs.in/)  
 
 🚀 **Happy Coding!**  
