@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/vysyakh-ajith/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/vkajith)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?logo=vercel)](https://vysyakh-ajith.vercel.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?logo=vercel)](https://www.vkajithdevs.in/)  
 
 ---
 
