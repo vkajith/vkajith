@@ -16,7 +16,7 @@ A **passionate software engineer** with expertise in building **scalable, high-p
 ## 💼 Experience  
 
 ### **Anarock Technology**  
-🗓 **Feb 2022 – Present** | **Software Development Engineer**  
+🗓 **Feb 2022 – July 2025** | **Software Development Engineer**  
 Shaping the future of **CRM platforms** and **digital marketing solutions** with modern web technologies. I focus on **front-end development, UI/UX improvements, and system optimizations**, working extensively with **React, Redux, Next.js, and GraphQL** to enhance product functionality, speed, and scalability. I also contribute to **AI-powered tools**, reusable component libraries, and codebase migration strategies.  
 
 ### **Nagarro**  
